@@ -16,4 +16,6 @@ Answers to study guide
 
 8. The difference between Vi and Vim is that Vim is a improved version of Vi, whatever Vi does Vim can do but does it better.
 
+9. To quit Vi, a user has to be in normal mode and type in ":q!" then press enter. This will quit out of vi without saving. To save while quitting, omit the exclamation mark!
+
 
