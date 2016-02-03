@@ -14,4 +14,6 @@ Answers to study guide
 
 7. To save in vi a user has to input the command ":w" while in normal mode. If the user has created a file all they have to do after editing it is press that command. If they created a new document, they have to say where to save the document.
 
+8. The difference between Vi and Vim is that Vim is a improved version of Vi, whatever Vi does Vim can do but does it better.
+
 
