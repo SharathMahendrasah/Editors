@@ -4,4 +4,6 @@ Answers to study guide
 
 2. The purpose of ctrl-d when creating a document with cat is to quit out of the document and return back to terminal commands.
 
+3. There is no difference between nano and pico today. Typing either command in terminal will bring up the same text editor. 
+
 
