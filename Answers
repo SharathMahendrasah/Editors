@@ -18,4 +18,6 @@ Answers to study guide
 
 9. To quit Vi, a user has to be in normal mode and type in ":q!" then press enter. This will quit out of vi without saving. To save while quitting, omit the exclamation mark!
 
+10. Emacs does allow for customization of the user experience.
+
 
