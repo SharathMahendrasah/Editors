@@ -10,4 +10,6 @@ Answers to study guide
 
 5. To change to insert mode from normal mode all a person has to us press the "i" button on the keyboard. To change back to normal mode all you have to do is press the esc key. The mode that you are in is diplayed at the bottom of the editor.
 
+6. Vi will be found in every distribution of linux because it's mandatory that they ship with it.
+
 
