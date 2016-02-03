@@ -6,4 +6,4 @@ Answers to study guide
 
 3. There is no difference between nano and pico today. Typing either command in terminal will bring up the same text editor. 
 
-
+4. The two modes in Vi are insert and normal.
