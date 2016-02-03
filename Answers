@@ -7,3 +7,7 @@ Answers to study guide
 3. There is no difference between nano and pico today. Typing either command in terminal will bring up the same text editor. 
 
 4. The two modes in Vi are insert and normal.
+
+5. To change to insert mode from normal mode all a person has to us press the "i" button on the keyboard. To change back to normal mode all you have to do is press the esc key. The mode that you are in is diplayed at the bottom of the editor.
+
+
