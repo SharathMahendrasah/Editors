@@ -12,4 +12,6 @@ Answers to study guide
 
 6. Vi will be found in every distribution of linux because it's mandatory that they ship with it.
 
+7. To save in vi a user has to input the command ":w" while in normal mode. If the user has created a file all they have to do after editing it is press that command. If they created a new document, they have to say where to save the document.
+
 
