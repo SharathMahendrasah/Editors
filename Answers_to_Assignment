@@ -18,7 +18,7 @@ Answers to the Editor Project
 
 	For nano, the commit messages are able to be understood by anyone. They don’t use any type of code to convey what was done in the commit. Very short and simple commits for this repo. They way that the commits were done here are what I think commits should look like. Very different from emacs.
 
-	
+	For vim, the commit messages are very organized. They let a person know what patch number it is as well as mentioning what the problem and the solution was for that commit. Easier to understand than emacs. 
 
 	
 
