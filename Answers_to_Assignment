@@ -16,6 +16,10 @@ Answers to the Editor Project
 
 	For emacs, some of the commit messages ae pretty long compared to others. There doesn't seem to be a set way for how they are using the commit messages. There are a lot of people who are making commits to this project. A lot of merging is going on in this project as well. Also most of the stuff in the history log I could not make sense of. 
 
+	For nano, the commit messages are able to be understood by anyone. They don’t use any type of code to convey what was done in the commit. Very short and simple commits for this repo. They way that the commits were done here are what I think commits should look like. Very different from emacs.
+
+	
+
 	
 
 	
